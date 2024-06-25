@@ -1,0 +1,5 @@
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/posts/templates/tags/sealmetrics/"
+versions:
+  - sha: 44fe4f92aad99cd15424f7b55e29e19347eb5aca
+    changeNotes: Initial release
