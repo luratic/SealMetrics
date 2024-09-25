@@ -1,4 +1,4 @@
 homepage: "https://www.luratic.com"
 versions:
-  - sha: a1ff587ef978f7ccea5f7ed8e26aed21cd4d6488
+  - sha: 23535ccc8c7a01aeda19a8a2df588504b8be627b
     changeNotes: Rename SealMetrics.tpl to template.tpl
